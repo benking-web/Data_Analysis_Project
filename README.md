@@ -14,7 +14,7 @@ This project analyzes the Iris dataset using Pandas and visualizes it with Matpl
 ## Screenshots
 - **Console Output:** ![Console Output](console_output.png)
 - **Generated Plots:** ![Plots](plots.png)
-
+![alt text](plot.jpg.jpg) ![alt text](console_output.png.jpg)
 
 ![alt text](plot.png)
 
