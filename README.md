@@ -16,6 +16,8 @@ This project analyzes the Iris dataset using Pandas and visualizes it with Matpl
 - **Generated Plots:** ![Plots](plots.png)
 
 
+![alt text](plot.png)
+
 ## How to Run
 1. Open VS Code.
 2. Run the following command:
